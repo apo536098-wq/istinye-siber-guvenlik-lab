@@ -1,0 +1,10 @@
+# İşletim sistemi geçici dosyaları (Yüklenmesin)
+.DS_Store
+Thumbs.db
+
+# IDE ve Editör ayar klasörleri (Yüklenmesin)
+.vscode/
+.idea/
+
+# Gizli çevre değişkenleri (Şifreler/Tokenlar)
+.env
